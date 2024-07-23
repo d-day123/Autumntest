@@ -131,7 +131,7 @@ fetchDataFromServer(`https://api.themoviedb.org/3/movie/${movieId}?api_key=${api
 
                 </div>
             </div>
-            <br> <p> If one of the above movie servers does not work, please refer to the eool that we will add soon...</p>
+            <br> <p> If one of the above movie servers does not work, please refer to the tool that we will add soon...</p>
 
         </div>
  `;
